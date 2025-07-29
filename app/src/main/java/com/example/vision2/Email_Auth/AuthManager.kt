@@ -24,7 +24,7 @@ object GmailAuthManager {
     // VITAL: Replace this with your "Web application" Client ID from Google Cloud Console
     // This is still needed for requesting an ID token if your backend needs it,
     // and it's good practice for Google Sign-In configuration.
-    private const val WEB_CLIENT_ID = "767151700139-9v2sq520c53hiouehhju3ujjm1bt3em3.apps.googleusercontent.com" // <<<< IMPORTANT: REPLACE THIS
+    private const val WEB_CLIENT_ID = "your webid from google" // <<<< IMPORTANT: REPLACE THIS
     private const val TAG = "GmailAuthManager"
 
     // Define the Gmail API scope
