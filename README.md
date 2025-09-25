@@ -6,7 +6,9 @@ This Android app uses object detection and voice interaction to assist visually 
 
 ### Interface
 <img src="https://github.com/user-attachments/assets/9ad49392-f159-4c11-90ed-a2b07d071e5b" width="350" height = "600"/>
+App UI
 <img src="https://github.com/user-attachments/assets/72064561-e933-4878-9812-ff16c4d389fb" width="350" height = "600"/>
+Read previous unread Email and reply using Gemini api.
 
 ### Hardware Prototype
 <img src="https://github.com/user-attachments/assets/9b64f5fa-5e5a-46bd-9dc6-55a26780fb4b" width="350" height = "600"/>
